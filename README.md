@@ -12,4 +12,4 @@ public IActionResult Index()
 }
 ```
 
-For more information and in-detail description, visit my blog : ...
+For more information and in-detail description, visit my blog : [http://zablo.net/blog/post/asp-net-core-redis-html-cache](http://bit.ly/redis-asp-net-core-github)
